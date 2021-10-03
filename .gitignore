@@ -1,0 +1,11 @@
+*.iml
+.idea/
+.aws-sam/
+node_modules
+.serverless
+.DS_Store
+.github
+build
+*/.serverless
+.parcel-cache
+dist
